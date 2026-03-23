@@ -1,0 +1,5 @@
+{
+  "name": "Jean-Claude Biguine Bhopal",
+  "description": "Premium Hair Salon & Spa website for Jean-Claude Biguine, Bhopal branch.",
+  "requestFramePermissions": ["geolocation"]
+}
